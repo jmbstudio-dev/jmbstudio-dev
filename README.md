@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 
-**jmbstudio-dev/jmbstudio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🔭 Focused on frontend development with React <br/>
 🌱 Continuously learning modern web practices <br/>
 👯 Open to collaboration and growth opportunities <br/>
