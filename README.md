@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm JohnM Burgos 👋
 
 
 🔭 Focused on frontend development with React <br/>
