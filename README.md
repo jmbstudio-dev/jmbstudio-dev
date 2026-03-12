@@ -1,5 +1,5 @@
-## Hi there, I'm JMBurgos 👋 View my simple Portfolio on https://www.jmbstudio.dev/
-
+## Hi there, I'm JMBurgos 👋 
+🌐 View my simple Portfolio on https://www.jmbstudio.dev <br/>
 
 🔭 Focused on frontend development with React <br/>
 🌱 Continuously learning modern web practices <br/>
